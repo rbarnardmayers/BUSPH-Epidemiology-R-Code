@@ -1,4 +1,4 @@
-# Novel-Methods
+# Epidemiology Code
 
 This repository holds R code for three BUSPH Epidemiology courses: 
 <ul>
